@@ -2,10 +2,6 @@ body {
     margin: auto 0;
 }
 
-.container {
-    display: grid;
-}
-
 .zone {
     cursor:pointer;
     color:#FFF;
