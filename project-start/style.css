@@ -26,6 +26,11 @@ body {
     margin: 0;
 }
 
+.sticky {
+    position: fixed;
+    top: 0;
+}
+
 @media only screen and (max-width: 600px) {
     .main-nav {
         font-size: 0.5em;
