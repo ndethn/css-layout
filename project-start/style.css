@@ -39,6 +39,9 @@ a {
     text-decoration: none;
 }
 
+.push {
+    margin-left: auto;
+}
 
 /*https://paulund.co.uk/how-to-create-shiny-css-buttons*/
 /***********************************************************************
