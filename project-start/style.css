@@ -54,6 +54,10 @@ a {
     height: 50vh;
 }
 
+.cover {
+    width: 25rem;
+}
+
 /* GRID */
 .grid-wrapper {
     display: grid;
