@@ -65,6 +65,12 @@ a {
     width: 100%;
 }
 
+.box {
+    background-color: #444;
+    padding: 130px;
+    margin: 20px;
+}
+
 /*https://paulund.co.uk/how-to-create-shiny-css-buttons*/
 /***********************************************************************
  *  Green Background
