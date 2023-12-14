@@ -30,6 +30,13 @@ body {
     margin: 0;
 }
 
+@media only screen and (max-width: 600px) {
+    .main-nav {
+        font-size: 0.5em;
+        pading: 0;
+    }
+}
+
 li {
     padding: 20px;
 }
